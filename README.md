@@ -45,6 +45,9 @@
 > |   量刑結果量化比較    |   計算出整體&律師個人之訴訟表現    |   程式碼   |  [🔗](https://github.com/peilichang/LawTech/blob/main/沙漠一點律%20-%20程式碼整理/沙漠一點律%20-%20各律師減刑表現計算.ipynb)     |
 > |   Figma網頁    |   預想中「沙漠一點律」結合律師減刑表現的網站頁面    |   網頁呈現   |  [🔗](https://www.figma.com/file/6dwmHjK8BikO7hAwNu6hHV/%E5%BE%8B%E5%B8%AB%E7%B6%B2%E9%A0%81?node-id=0%3A1)     |
 > |   PPT    |   成果發表時使用之簡報    |   簡報   |  [🔗](https://github.com/peilichang/LawTech/blob/main/律師媒人：%20以勝率及減刑程度為考量.pdf)    |
-> |   成果發表   |   2021/07/30第四組迷你黑客松成果發表錄影    |   錄影   |  [🔗]()     |
+> |   成果發表   |   2021/07/30第四組迷你黑客松成果發表錄影    |   錄影   |  [🔗](https://drive.google.com/file/d/1DeMZQftYutPvFSjMyZOH9MbgzSnpcqYp/view?usp=sharing)|
 
 ## 其他紀錄
+> 1. Evernote討論紀錄[🔫](https://www.evernote.com/shard/s469/client/snv?noteGuid=e97bb5a7-2714-be81-5d01-4f0690247682&noteKey=5b0b4cf7e7f7b17719562fab917f72c2&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs469%2Fsh%2Fe97bb5a7-2714-be81-5d01-4f0690247682%2F5b0b4cf7e7f7b17719562fab917f72c2&title=2021%25E6%25B3%2595%25E5%25BE%258B%25E7%25A7%2591%25E6%258A%2580%2B%25E9%25BB%2591%25E5%25AE%25A2%25E6%259D%25BE%25EF%25BC%259A%25E6%25A7%258B%25E6%2583%25B3%25281%2529)
+> 2. 營隊GitHub連結[🔫](https://github.com/pecu/LawTech)
+> 3. 每日課程錄影資料夾[🔫](https://drive.google.com/drive/u/0/folders/1eqDsDTEfimHUrOysVGGXGZDqoG_Nyyal)
