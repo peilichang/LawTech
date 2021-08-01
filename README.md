@@ -48,6 +48,5 @@
 > |   成果發表   |   2021/07/30第四組迷你黑客松成果發表錄影    |   錄影   |  [🔗](https://drive.google.com/file/d/1DeMZQftYutPvFSjMyZOH9MbgzSnpcqYp/view?usp=sharing)|
 
 ## 其他紀錄
-> 1. Evernote討論紀錄[🔫](https://www.evernote.com/shard/s469/client/snv?noteGuid=e97bb5a7-2714-be81-5d01-4f0690247682&noteKey=5b0b4cf7e7f7b17719562fab917f72c2&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs469%2Fsh%2Fe97bb5a7-2714-be81-5d01-4f0690247682%2F5b0b4cf7e7f7b17719562fab917f72c2&title=2021%25E6%25B3%2595%25E5%25BE%258B%25E7%25A7%2591%25E6%258A%2580%2B%25E9%25BB%2591%25E5%25AE%25A2%25E6%259D%25BE%25EF%25BC%259A%25E6%25A7%258B%25E6%2583%25B3%25281%2529)
-> 2. 營隊GitHub連結[🔫](https://github.com/pecu/LawTech)
-> 3. 每日課程錄影資料夾[🔫](https://drive.google.com/drive/u/0/folders/1eqDsDTEfimHUrOysVGGXGZDqoG_Nyyal)
+> 1. 營隊GitHub連結[🔫](https://github.com/pecu/LawTech)
+> 2. 每日課程錄影資料夾[🔫](https://drive.google.com/drive/u/0/folders/1eqDsDTEfimHUrOysVGGXGZDqoG_Nyyal)
