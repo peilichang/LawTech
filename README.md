@@ -48,5 +48,5 @@
 > |   成果發表   |   2021/07/30第四組迷你黑客松成果發表錄影    |   錄影   |  [🔗](https://drive.google.com/file/d/1DeMZQftYutPvFSjMyZOH9MbgzSnpcqYp/view?usp=sharing)|
 
 ## 其他紀錄
-> 1. 營隊GitHub連結[🔫](https://github.com/pecu/LawTech)
+> 1. 營隊GitHub連結[🔫](https://github.com/pecu/LawTech/2021LawTech)
 > 2. 每日課程錄影資料夾[🔫](https://drive.google.com/drive/u/0/folders/1eqDsDTEfimHUrOysVGGXGZDqoG_Nyyal)
